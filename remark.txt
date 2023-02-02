@@ -1,0 +1,3 @@
+In the benchmark files:
+- represents no weed tiles
+* represents weeds
